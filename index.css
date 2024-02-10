@@ -1014,7 +1014,7 @@ body {
 
 @media only screen and (max-width: 767px) {
     .hero__podium-text {
-        font-size:40px;
+        font-size:20px;
         width: 315px;
         padding-top: 10%
     }
@@ -1199,7 +1199,7 @@ body {
 @media only screen and (max-width: 599px) {
     .hero__name {
         margin-left:-190px;
-        font-size: 80px
+        font-size: 60px
     }
 }
 
@@ -1347,8 +1347,8 @@ body {
     z-index: 4;
     width: 88%;
     margin: 0 auto;
-    border-top-left-radius: 9999px;
-    border-top-right-radius: 9999px;
+    border-bottom-left-radius: 9999px;
+    border-bottom-right-radius: 9999px;
     background-color: rgb(180, 201, 161);
     padding-top: 46.5277777778vw;
     padding-left: 7.6388888889vw;
