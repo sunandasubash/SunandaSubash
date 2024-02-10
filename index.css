@@ -929,8 +929,8 @@ body {
     height: 30vw;
     background-color:  rgb(180, 201, 161);
     overflow: hidden;
-    border-top-left-radius: 9999px;
-    border-top-right-radius: 9999px;
+    border-bottom-left-radius: 9999px;
+    border-bottom-right-radius: 9999px;
     position: relative;
     margin: 0 auto;
     margin-top: -118px;
