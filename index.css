@@ -4024,7 +4024,7 @@ body {
     display: flex;
     flex-direction: row;
     justify-content: flex-start;
-    margin-top: 12px
+    margin-top:20px
 }
 
 .mentorship__item-title {
